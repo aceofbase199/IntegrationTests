@@ -1,0 +1,2 @@
+1. Create integration tests for verifying gotten message after clicking 'Analyze' button.
+2. Add one more test when we insert valid message and check whether it was added and compare message with inserted.
